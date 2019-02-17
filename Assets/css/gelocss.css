@@ -1,0 +1,50 @@
+.header {
+    top: 0px;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: antiquewhite;
+    font-size: 50px; 
+
+}
+
+nav {
+
+    float: right;
+    width: 12.7%;
+    height: 100px;
+    padding: 0px;
+   
+    
+  }
+
+  
+ ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: absolute;
+    top: 25px;
+    right: 150px;
+    
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center; 
+    text-decoration: none;
+    overflow: hidden;
+  }
+  
+  li a:hover {
+    background-color: white;
+    color: black;
+    
+    
+  }
